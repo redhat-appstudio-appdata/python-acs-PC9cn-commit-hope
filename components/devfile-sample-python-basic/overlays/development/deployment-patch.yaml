@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/gbenhaim-tenant/python-acs/devfile-sample-python-basic@sha256:da4eaf4fcac35d1e724b165b7d04d6c599451dea6e94f435bc898b7a0b0a5e05
+      - image: quay.io/redhat-user-workloads/gbenhaim-tenant/python-acs/devfile-sample-python-basic@sha256:f0b25ef9759087a6212561a9dcd6adc0a45e85b96a45ebe73ca5f27c373abc5a
         name: my-python
         resources: {}
 status: {}
